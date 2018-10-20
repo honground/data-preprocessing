@@ -1,0 +1,9 @@
+This code does followings:
+
+1. It loops through files in directory and save their names in the vector.
+2. For each .csv file, the code deletes first seven rows and the first column.
+3. For each .csv file, the code attach a new variable to the last column based on the file name.
+  e.g.) if filename is "CHRG_77_L1.csv", the code put a new variable "L" to the new column of the .csv file
+4. The code extracts the result as a csv file.
+  
+  *** I uploaded an example .csv file. The values are made by using rand() function in Microsoft Excel.
