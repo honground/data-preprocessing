@@ -1,0 +1,7 @@
+This code does followings:
+
+1. From the response data, find a dominant response among three options (i.e. inc, maintain, dec)
+
+2. For every time series data (n=300), attach the dominant response for each of them
+
+3. Merge data into a single dataframe
