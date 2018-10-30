@@ -1,0 +1,3 @@
+This code merges multiple time series data (300 files in this example) 
+and a single response data (response about 300 time series data)
+into a single structured database
